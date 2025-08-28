@@ -34,13 +34,13 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: Native
+          level: Professional
 
         - idiom: French
           level: Professional
 
         - idiom: Spanish
-          level: Professional
+          level: Native
 
     interests:
       title: Interests
@@ -63,7 +63,7 @@ career-profile:
 education:
     title: Educación
     info:
-      - degree:Ingenieria de sistemas
+      - degree: Ingenieria de sistemas
         university: Pontificia Universidad Javeriana
         time: 2024 - 2029
         details: |
